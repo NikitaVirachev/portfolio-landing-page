@@ -29,8 +29,29 @@
 
 */
 
+@font-face {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/fonts/Gilroy-Medium.woff2");
+}
+
+@font-face {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/Gilroy-Bold.woff2");
+}
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+}
+
+body {
+  font-family: "Gilroy", sans-serif;
+  line-height: 1;
+  font-weight: 500;
+  color: #070707;
 }
