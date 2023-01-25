@@ -1,0 +1,39 @@
+/**************************/
+/* HEADER */
+/**************************/
+
+.header {
+  /* height: 8.8rem; */
+  border-bottom: 1px solid #828282;
+}
+
+/**************************/
+/* NAVIGATION */
+/**************************/
+
+.main-nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  height: 8.8rem;
+}
+
+.main-nav-link:link,
+.main-nav-link:visited {
+  font-weight: 700;
+  font-size: 1.8rem;
+  color: #828282;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+.main-nav-link:hover,
+.main-nav-link:active {
+  color: #070707;
+}
+
+.main-nav-link__active:link,
+.main-nav-link__active:visited {
+  color: #070707;
+}

@@ -49,9 +49,22 @@
   box-sizing: border-box;
 }
 
+html {
+  /* font-size: 10px; */
+  /* 10px / 16px = 0.625 = 62.5% */
+  /* Percentage of user's browser font-size settings */
+  font-size: 62.5%;
+}
+
 body {
   font-family: "Gilroy", sans-serif;
   line-height: 1;
   font-weight: 500;
   color: #070707;
+  background-color: #fff;
+}
+
+.container {
+  width: 94rem;
+  margin: 0 auto;
 }
