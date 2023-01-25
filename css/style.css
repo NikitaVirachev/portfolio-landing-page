@@ -37,3 +37,54 @@
 .main-nav-link__active:visited {
   color: #070707;
 }
+
+/**************************/
+/* HERO SECTION */
+/**************************/
+
+.section-hero {
+  padding-top: 3.2rem;
+  padding-bottom: 10.4rem;
+}
+
+.hero-text-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.hero-name {
+  font-size: 4.73392rem;
+  width: 12.4rem;
+  line-height: 1.2;
+  font-weight: 700;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 2px #000;
+  -webkit-text-fill-color: #070707;
+}
+
+.hero-about-me {
+  font-size: 1.8rem;
+  line-height: 1.2;
+}
+
+.hero-languages {
+  /* width: 7.2rem; */
+  font-size: 1.6rem;
+  font-weight: 700;
+
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+}
+
+.hero-languages-ru {
+  color: #828282;
+}
+
+.hero-img-box {
+  height: 38.7rem;
+  background: url(/img/person.jpg);
+  background-size: cover;
+  background-position: top 43% right;
+  margin-top: 4rem;
+}
