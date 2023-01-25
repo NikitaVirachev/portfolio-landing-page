@@ -88,3 +88,22 @@
   background-position: top 43% right;
   margin-top: 4rem;
 }
+
+/**************************/
+/* ABOUT ME SECTION */
+/**************************/
+
+.section-about-me {
+  background-color: #f6f6f6;
+  padding-top: 11.5rem;
+  padding-bottom: 10.7rem;
+}
+
+.about-me-text-box {
+  margin-top: 2.4rem;
+  height: 21.8rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
