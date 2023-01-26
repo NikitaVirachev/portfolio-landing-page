@@ -85,8 +85,8 @@
   height: 38.7rem;
   background: url(/img/person.jpg);
   background-size: cover;
-  background-position: top 43% right;
-  margin-top: 4rem;
+  background-position: top 44% right;
+  margin-top: 4.3rem;
 }
 
 /**************************/
@@ -96,11 +96,11 @@
 .section-about-me {
   background-color: #f6f6f6;
   padding-top: 11.5rem;
-  padding-bottom: 10.7rem;
+  padding-bottom: 10.8rem;
 }
 
 .about-me-text-box {
-  margin-top: 2.4rem;
+  margin-top: 2.3rem;
   height: 21.8rem;
 
   display: flex;
@@ -113,7 +113,7 @@
 /**************************/
 
 .skills {
-  padding-top: 9.1rem;
+  padding-top: 8.4rem;
   padding-bottom: 11rem;
 }
 
@@ -136,7 +136,7 @@
 .skills-rating {
   margin-top: 3.7rem;
   display: flex;
-  gap: 1.3rem;
+  gap: 1.4rem;
 }
 
 .black-star {
