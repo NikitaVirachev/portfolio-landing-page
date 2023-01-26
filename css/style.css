@@ -183,3 +183,47 @@
   line-height: 2.2rem;
   color: #070707;
 }
+
+/**************************/
+/* CONTACTS SECTION */
+/**************************/
+
+.contacts {
+  padding-top: 10.7rem;
+  padding-bottom: 12.3rem;
+}
+
+.contacts-subtext {
+  margin-top: 2.5rem;
+  margin-bottom: 3.3rem;
+}
+
+.contacts-cta-box {
+  text-align: center;
+}
+
+.contacts-cta:link,
+.contacts-cta:visited {
+  display: inline-block;
+  font-size: 1.8rem;
+  background-color: #070707;
+  padding: 1.2rem 3rem;
+  border-radius: 30px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.contacts-network {
+  width: 34.2rem;
+  margin: 8.6rem auto 4.3rem auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.contacts-network-subtext {
+  font-weight: 500;
+  font-size: 1.4rem;
+  line-height: 1.7rem;
+  text-align: center;
+  color: #828282;
+}
