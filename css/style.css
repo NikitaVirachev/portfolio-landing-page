@@ -66,6 +66,7 @@
 .hero-about-me {
   font-size: 1.8rem;
   line-height: 1.2;
+  transform: translate(-28px, -10px);
 }
 
 .hero-languages {
@@ -74,7 +75,7 @@
   font-weight: 700;
 
   writing-mode: vertical-lr;
-  transform: rotate(180deg);
+  transform: rotate(180deg) translate(0, 10px);
 }
 
 .hero-languages-ru {
