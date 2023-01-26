@@ -107,3 +107,42 @@
   flex-direction: column;
   justify-content: space-between;
 }
+
+/**************************/
+/* SKILLS SECTION */
+/**************************/
+
+.skills {
+  padding-top: 9.1rem;
+  padding-bottom: 11rem;
+}
+
+.skills-programs {
+  margin-top: 8.8rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.skills-program {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.skills-logo {
+  margin-bottom: 2.1rem;
+}
+
+.skills-rating {
+  margin-top: 3.7rem;
+  display: flex;
+  gap: 1.3rem;
+}
+
+.black-star {
+  fill: #070707;
+}
+
+.white-star {
+  fill: #e5e5e5;
+}

@@ -16,7 +16,9 @@
 - Tints:
 - Shades:
 - Accents:
-- Greys: #F6F6F6
+- Greys:
+  #828282 
+  #F6F6F6
 
 --- 05 SHADOWS
 
@@ -85,4 +87,21 @@ body {
   font-size: 1.8rem;
   line-height: 2.2rem;
   text-align: center;
+}
+
+.subtext {
+  text-align: center;
+  font-size: 1.4rem;
+  line-height: 1.7rem;
+  color: #828282;
+}
+
+/* HELPER/SETTINGS CLASSES */
+
+.margin-top-sk {
+  margin-top: 5.7rem;
+}
+
+.margin-top-st {
+  margin-top: auto;
 }
