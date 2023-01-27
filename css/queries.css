@@ -3,6 +3,10 @@
 /**************************/
 
 @media (max-width: 23.5em) {
+  /**************************/
+  /* HERO SECTION */
+  /**************************/
+
   .section-hero {
     padding-top: 5.6rem;
     padding-bottom: 8.3rem;
@@ -63,6 +67,10 @@
     background-repeat: no-repeat;
   }
 
+  /**************************/
+  /* ABOUT ME SECTION */
+  /**************************/
+
   .section-about-me {
     padding-top: 7.4rem;
     padding-bottom: 7.7rem;
@@ -80,6 +88,10 @@
   .new-line-dt {
     display: none;
   }
+
+  /**************************/
+  /* SKILLS SECTION */
+  /**************************/
 
   .skills {
     padding-top: 7.6rem;
