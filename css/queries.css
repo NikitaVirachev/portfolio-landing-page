@@ -80,4 +80,34 @@
   .new-line-dt {
     display: none;
   }
+
+  .skills {
+    padding-top: 7.6rem;
+    padding-bottom: 10.2rem;
+  }
+
+  .margin-top-sk {
+    margin-top: 3.8rem;
+  }
+
+  .margin-top-st {
+    margin-top: 0;
+  }
+
+  .skills-programs {
+    margin-top: 7.6rem;
+  }
+
+  .skills-programs {
+    flex-direction: column;
+    gap: 8.7rem;
+  }
+
+  .skills-program {
+    height: 20.1rem;
+  }
+
+  .skills-rating {
+    margin-top: auto;
+  }
 }
