@@ -62,4 +62,22 @@
     background-position: top 100% right 50%;
     background-repeat: no-repeat;
   }
+
+  .section-about-me {
+    padding-top: 7.4rem;
+    padding-bottom: 7.7rem;
+  }
+
+  .about-me-text-box {
+    margin-top: 3.5rem;
+    height: 26.3rem;
+  }
+
+  .new-line-mb {
+    display: inline;
+  }
+
+  .new-line-dt {
+    display: none;
+  }
 }
