@@ -110,4 +110,22 @@
   .skills-rating {
     margin-top: auto;
   }
+
+  /**************************/
+  /* PORTFOLIO SECTION */
+  /**************************/
+
+  .portfolio {
+    padding-top: 7.4rem;
+    padding-bottom: 9.1rem;
+  }
+
+  .portfolio-examples {
+    gap: 8.1rem;
+    margin-top: 7.3rem;
+  }
+
+  .portfolio-example-text {
+    margin-top: 2.6rem;
+  }
 }
