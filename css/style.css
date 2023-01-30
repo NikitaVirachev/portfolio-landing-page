@@ -51,6 +51,10 @@
   display: none;
 }
 
+.header .hero-languages {
+  display: none;
+}
+
 /**************************/
 /* HERO SECTION */
 /**************************/
