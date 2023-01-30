@@ -3,6 +3,11 @@
 /**************************/
 
 @media (max-width: 23.5em) {
+  /* STICKY NAVIGATION */
+  .sticky .header {
+    display: none;
+  }
+
   /**************************/
   /* HERO SECTION */
   /**************************/
