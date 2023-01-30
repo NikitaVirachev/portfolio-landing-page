@@ -140,33 +140,33 @@
   .portfolio-example-text {
     margin-top: 2.6rem;
   }
-}
 
-/**************************/
-/* CONTACTS SECTION */
-/**************************/
+  /**************************/
+  /* CONTACTS SECTION */
+  /**************************/
 
-.contacts {
-  padding-top: 7.5rem;
-  padding-bottom: 11.3rem;
-}
+  .contacts {
+    padding-top: 7.5rem;
+    padding-bottom: 11.3rem;
+  }
 
-.contacts-subtext {
-  margin-top: 3.2rem;
-  margin-bottom: 4.3rem;
-}
+  .contacts-subtext {
+    margin-top: 3.2rem;
+    margin-bottom: 4.3rem;
+  }
 
-.contacts-cta:link,
-.contacts-cta:visited {
-  display: block;
-}
+  .contacts-cta:link,
+  .contacts-cta:visited {
+    display: block;
+  }
 
-.contacts-network {
-  width: 100%;
-  margin: 4.7rem auto 4.6rem auto;
-}
+  .contacts-network {
+    width: 100%;
+    margin: 4.7rem auto 4.6rem auto;
+  }
 
-.contacts-network-subtext {
-  font-size: 1.8rem;
-  line-height: 2.2rem;
+  .contacts-network-subtext {
+    font-size: 1.8rem;
+    line-height: 2.2rem;
+  }
 }
